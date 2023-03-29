@@ -12,7 +12,7 @@ body{
     justify-content: center;
 }
 .container h1{
-    font-size: 30px;      
+    font-size: 30px;
     font-weight: 600;
 }
 
@@ -20,7 +20,7 @@ body{
     width: 100%;
     height: 100px;
     margin-top: 25px;
-   
+
 }
 .img-1{
     height: 80px;
@@ -32,17 +32,18 @@ body{
 .are{
     clear: right;
     padding-top: 10px;
-  
+
 }
 .web{
     font-size: 15px;
     clear: right;
     color: rgb(247, 0, 103);
-    
+
 }
 table{
     margin: 30px;
     padding-top: 1px;
+    border: 5px solid yellow;
 }
 table tr td{
     width: 700px;
@@ -53,21 +54,22 @@ table tr td img {
     width: 100%;
     height: 100%;
 }
- 
 
-#img07{   
+
+#img07{
      background-image: url(img/0002.jpeg);
     background-size: cover;
 
 }
 .img08{
-    background-image: url(img/04.jpeg);
+    background-image: url(img/10.jpg);
     background-size: cover;
 }
 #img9{
     background-image: url(img/06.jpg);
     background-size: cover;
 }
+
 
 
 .img10{
@@ -118,7 +120,7 @@ img:hover{
 
 input{
    height: 30px;
-   width: 30%; 
+   width: 30%;
    margin: 10px;
 }
 .Comment{
@@ -128,7 +130,7 @@ input{
 }
 button{
     height: 40px;
-    width: 30%; 
+    width: 30%;
     margin: 10px;
     font-size: 20px;
     background-color: rgba(123, 194, 255, 0.941);
