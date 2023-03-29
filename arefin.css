@@ -1,0 +1,135 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 45px;
+    background: rgb(15, 219, 234);
+    color: gold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container h1{
+    font-size: 30px;      
+    font-weight: 600;
+}
+
+.logo{
+    width: 100%;
+    height: 100px;
+    margin-top: 25px;
+   
+}
+.img-1{
+    height: 80px;
+    margin-left: 300px;
+    display: block;
+    float: left;
+    border-radius: 50%;
+}
+.are{
+    clear: right;
+    padding-top: 10px;
+  
+}
+.web{
+    font-size: 15px;
+    clear: right;
+    color: rgb(247, 0, 103);
+    
+}
+table{
+    margin: 30px;
+    padding-top: 1px;
+}
+table tr td{
+    width: 700px;
+    height: 400px;
+    background-color: blue;
+}
+table tr td img {
+    width: 100%;
+    height: 100%;
+}
+ 
+
+#img07{   
+     background-image: url(img/0002.jpeg);
+    background-size: cover;
+
+}
+.img08{
+    background-image: url(img/04.jpeg);
+    background-size: cover;
+}
+#img9{
+    background-image: url(img/06.jpg);
+    background-size: cover;
+}
+
+
+.img10{
+    background-image: url(img/08.jpg);
+    background-size: cover;
+}
+.img11{
+    background-image: url(img/12.jpg);
+    background-size: cover;
+}
+.img12{
+    background-image: url(img/12.jpg);
+    background-size: cover;
+}
+
+
+#img13{
+    background-image: url(img/16.jpg);
+    background-size: cover;
+}
+#img14{
+    background-image: url(img/10.jpg);
+    background-size: cover;
+}
+#img15{
+    background-image: url(img/19.jpg);
+    background-size: cover;
+}
+img:hover{
+    opacity: 0;
+    cursor: grab;
+}
+
+
+
+
+
+
+
+
+/*.form{
+    text-align: center;
+    height: 250px;
+    padding-top: 12px;
+    background-color: black;
+    margin: 30px;
+}
+
+input{
+   height: 30px;
+   width: 30%; 
+   margin: 10px;
+}
+.Comment{
+    height: 50px;
+    width: 30%;
+
+}
+button{
+    height: 40px;
+    width: 30%; 
+    margin: 10px;
+    font-size: 20px;
+    background-color: rgba(123, 194, 255, 0.941);
+}*/
